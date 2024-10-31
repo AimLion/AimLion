@@ -1,29 +1,29 @@
-<div align="center">
-    <img alt="@AimLion" src="./assets/welcome.png" width="500"/>
-    <h6>Designed by <a href="http://www.freepik.es/">Freepik</a></h6>
+<div align="center" width="50">
+    <img alt="@AimLion" src="./../assets/welcome.png" width="300"/>
+    <h6>Diseñador por <a href="http://www.freepik.es/">Freepik</a></h6>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manuel Segundo</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Manuel Segundo</h1>
 
-## About Me :
+## Acrca de mi :
 
-- 🏫 I am currently finishing my degree as **Software Management and Development Engineer** at [UTHermosillo](http://www.uthermosillo.edu.mx)
-- 🎓 Trained as **University Higher Technician** from the same institution [UTHermosillo](http://www.uthermosillo.edu.mx)
-- 🏡 Lives in **Sonora, Mexico**
-- ⚡ **Fun Facts** : 🎮🎼🥁🎬
-- 💬 Native Spanish speaker, and I continue practicing my English
-- 🗣 **Spanish README:** Please refer to the [README_es.md](./docs/README_es.md) file in this repository.
+- 🏫 Actualmente estoy terminando la carrera de **Ingeniero en Gestión y Desarrollo de Software** en la [UTHermosillo](http://www.uthermosillo.edu.mx)
+- 🎓 Formado como **Técnico Superior Universitario** de la misma institución [UTHermosillo](http://www.uthermosillo.edu.mx)
+- 🏡 Vivo en **Sonora, Mexico**
+- ⚡ **Datos Curiosos** : 🎮🎼🥁🎬
+- 💬 Hablante nativo de español y sigo practicando mi Ingles
+- 🗣 **Ingles README:** Consulte el archivo [README.md](./../README.md) en este repositorio.
 
 <br>
 
-## Connect with me 📬 :
+## Conéctate conmigo 📬 :
 
 [![@manuel-2do](https://img.icons8.com/fluency/48/000000/instagram-new.png "@manuel-2do")](https://www.instagram.com/leonm2do/)
 [![@manuel-2do](https://img.icons8.com/fluency/48/000000/linkedin.png "@manuel-2do")](https://www.linkedin.com/in/manuel-2do/)
-[![@manuel-2do](https://img.icons8.com/fluency/48/000000/apple-mail.png "maximus.jasso@gmail.com")](mailto:maximus.jasso@gmail.com?subject=Consult%20from%20your%20README&body=)
+[![@manuel-2do](https://img.icons8.com/fluency/48/000000/apple-mail.png "maximus.jasso@gmail.com")](mailto:maximus.jasso@gmail.com?subject=Consulta%20desde%20tu%20README&body=)
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## En que soy bueno 🧑‍💻 :
 
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/figma.png"/> <img src="https://img.icons8.com/?size=48&id=13631&format=png"/> <img src="https://img.icons8.com/color/48/000000/canva.png"/>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## GitHub Stats 📈 :
+## Estadísticas de GitHub 📈 :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AimLion&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![AimLion GitHub stats](https://github-readme-stats.vercel.app/api?username=AimLion&theme=algolia)](https://github.com/AimLion/github-readme-stats)
@@ -42,6 +42,6 @@
 
 ---
 
-Credit: [AimLion](https://github.com/AimLion)
+Creditos: [AimLion](https://github.com/AimLion)
 
-Last edited on: 31/10/2024
+Ultima edición en: 31/10/2024
