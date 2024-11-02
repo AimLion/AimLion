@@ -29,16 +29,14 @@
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
 
-
 <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
 
 <br>
 
 ## GitHub Stats 📈 :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AimLion&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AimLion&theme=algolia)](https://git.io/streak-stats)
 [![AimLion GitHub stats](https://github-readme-stats.vercel.app/api?username=AimLion&theme=algolia)](https://github.com/AimLion/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AimLion&theme=algolia)](https://github.com/AimLion/github-readme-stats)
 
 ---
 
