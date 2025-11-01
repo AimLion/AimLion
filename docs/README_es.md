@@ -6,8 +6,8 @@
 
 ## Acrca de mi :
 
-- 🏫 Actualmente estoy terminando la carrera de **Ingeniero en Gestión y Desarrollo de Software** en la [UTHermosillo](http://www.uthermosillo.edu.mx)
-- 🎓 Formado como **Técnico Superior Universitario** de la misma institución [UTHermosillo](http://www.uthermosillo.edu.mx)
+- 🏫 Actualmente estoy cursando la maestría en **Diseño Multimedia con orientación en Aplicaciones Web y Móviles** en la [UVM](https://uvm.mx/)
+- 🎓 Formado como **Ingeniero en Gestión y Desarrollo de Software** de la [UTHermosillo](http://www.uthermosillo.edu.mx)
 - 🏡 Vivo en **Sonora, Mexico**
 - ⚡ **Datos Curiosos** : 🎮🎼🥁🎬
 - 💬 Hablante nativo de español y sigo practicando mi Ingles
@@ -27,10 +27,10 @@
 
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/figma.png"/> <img src="https://img.icons8.com/?size=48&id=13631&format=png"/> <img src="https://img.icons8.com/color/48/000000/canva.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
+<img src="https://img.icons8.com/fluency/48/000000/python.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
 
 <br>
 
