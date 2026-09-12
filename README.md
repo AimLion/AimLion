@@ -1,45 +1,51 @@
 <div align="center">
-    <img alt="@AimLion" src="./assets/welcome.png" width="500"/>
-    <h6>Designed by <a href="http://www.freepik.es/">Freepik</a></h6>
+    <img alt="Terminal Header" src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=180&section=header&text=SOFTWARE%20ENGINEER%20-%20GAME%20DESIGNER&fontSize=35&fontColor=ffffff&descAlignY=65&desc=System%20Design%20%7C%20Rapid%20Prototyping"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manuel Segundo</h1>
 
-## About Me :
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Manuel Segundo</h1>
 
-- 🏫 I am currently pursuing a **Master's degree in Multimedia Design** at [UVM](https://uvm.mx)
-- 🎓 Trained as **Software Development Engineer** from [UTHermosillo](http://www.uthermosillo.edu.mx)
-- 🏡 Lives in **Sonora, Mexico**
-- ⚡ **Fun Facts** : 🎮🎼🥁🎬
-- 💬 Native Spanish speaker, and I continue practicing my English
-- 🗣 **Spanish README:** Please refer to the [README_es.md](./docs/README_es.md) file in this repository.
+## ⚙️ About Me
+I am a Software Engineer and Multimedia Design Master's student focused on the intersection of hard engineering and interactive experiences. I utilize robust data structures, memory optimization, and Clean Architecture to build **scalable systems** that protect and elevate the **player's experience**.
 
-<br>
-
-## Connect with me 📬 :
-
-[![@manuel-2do](https://img.icons8.com/fluency/48/000000/instagram-new.png "@manuel-2do")](https://www.instagram.com/leonm2do/)
-[![@manuel-2do](https://img.icons8.com/fluency/48/000000/linkedin.png "@manuel-2do")](https://www.linkedin.com/in/manuel-2do/)
-[![@manuel-2do](https://img.icons8.com/fluency/48/000000/apple-mail.png "maximus.jasso@gmail.com")](mailto:maximus.jasso@gmail.com?subject=Consult%20from%20your%20README&body=)
+- 🎓 **B.S. in Software Engineering** | UTHermosillo
+- 🏫 **Master's in Multimedia Design** | UVM (Exp. 2027)
+- ⚡ **Fun Facts** : 🎮 Videogames | 🥁 Music | 🎬 Movies
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## 🛠️ Technical Stack
+**Languages & Architecture:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=undertale&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures_(DSA)-FF4B4B?style=for-the-badge&logo=leetcode&logoColor=white)
 
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/figma.png"/> <img src="https://img.icons8.com/?size=48&id=13631&format=png"/> <img src="https://img.icons8.com/color/48/000000/canva.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/fluency/48/000000/python.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
+**Tools & Engines:**  
+![Godot Engine 4](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 <br>
 
-## GitHub Stats 📈 :
+## 📂 Current Projects (Showcase)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AimLion&theme=algolia)](https://git.io/streak-stats)
-[![AimLion GitHub stats](https://github-readme-stats.vercel.app/api?username=AimLion&theme=algolia)](https://github.com/AimLion/github-readme-stats)
+1. **"PasarRato" Text-Based (Python):** A turn-based automated combat RPG running entirely within the command-line interface, focusing on economy management and class-based skill progression.
+2. **Turn-Based Asymmetric Combat System (Godot / C# / GDScript):**  A tactical card game where the player and CPU compete by deploying units and managing power across the board to control territory.
+3. **Resource Management & Economy Simulator (Data-Driven Design):** A time-management and economy simulator where players balance rapid service execution with long-term business survival and resource constraints.
+
+<br>
+
+## 📬 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-2do/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximus.jasso@gmail.com)
+
+---
+
+[![AimLion GitHub stats](https://github-readme-stats.vercel.app/api?username=AimLion&theme=radical&show_icons=true)](https://github.com/AimLion/github-readme-stats)
 
 ---
 
 Credit: [AimLion](https://github.com/AimLion)
-
-Last edited on: 31/10/2024
+Last edited on: 12/9/2026
